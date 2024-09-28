@@ -4,7 +4,7 @@ A simple yet fully functional Tic-Tac-Toe game implemented using Java, adhering 
 
 ## Overview
 
-This Tic-Tac-Toe game demonstrates key design principles such as modularity, abstraction, encapsulation, and maintainability. The game allows two players to take turns marking a 3x3 grid, with the winner being the first player to align three marks either horizontally, vertically, or diagonally.
+This Tic-Tac-Toe game demonstrates key design principles such as modularity, abstraction, encapsulation, and maintainability. The game allows two players to take turns marking a n*n grid, with the winner being the first player to align n marks either horizontally, vertically, or diagonally.
 
 ### Key Features:
 - Follows SOLID principles
