@@ -34,4 +34,4 @@ Entry point for the game. Initializes the game, players, and board, and starts t
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/tic-tac-toe-java.git
+[git clone https://github.com/your-username/tic-tac-toe-java.git](https://github.com/Earlymoon/TicTacToeGame_LLD.git)
